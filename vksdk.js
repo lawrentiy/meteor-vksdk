@@ -1,0 +1,1 @@
+VK = Npm.require('vksdk');
